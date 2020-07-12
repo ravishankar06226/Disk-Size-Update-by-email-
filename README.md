@@ -1,2 +1,2 @@
-# Remaining Disk-Size Update by email
-Email notification for disk usage
+# Disk-Size Update by email
+Email notification of disk usage
